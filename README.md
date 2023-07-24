@@ -17,6 +17,8 @@ public class air3 {
   private static Final4jo fighting;
   public static Final4jo getNapPPenMaeum() throws WindowException{
   if ( group == null)
-  {
+  }
+  }
+  }
     
   
